@@ -1,2 +1,35 @@
 
 /* Your CSS Code here. */
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+th {
+	text-align: left;
+}
+td {
+	text-align: right;
+}
+tr, td, th {
+	border:2px solid black;
+	width:10px;
+}
+.r1 {
+	background: #C36753 ;
+	color: white;
+}
+.r2 {
+	background: #CD9A8F;
+	color: white;
+}
+.r3 {
+	background: #EED2CC;
+}
+.r4 {
+	background:#CAC3C2;
+}
+
+
+
+
+
